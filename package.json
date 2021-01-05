@@ -5,7 +5,7 @@
   "author": "jayrchamp <champoux.jr@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "chalk": "^2.4.2",
     "conventional-changelog": "^3.1.12",
     "find-up": "^4.1.0",
